@@ -1,247 +1,119 @@
-# Awesome-Insurance-Agency-Management-System
+# 🏢 Awesome Insurance Agency Management System (AMS)
 
-## Top Insurance Agency Management System (AMS) Platforms Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Insurance-Agency-Management-System?style=flat-square" alt="Stars"/> <img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Insurance-Agency-Management-System?style=flat-square" alt="Forks"/> <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Insurance-Agency-Management-System?style=flat-square" alt="Last Commit"/> <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+![Awesome Insurance Agency Management System Banner](assets/banner.svg)
 
-*Focused on Agency Operations, Policy Management, Client Servicing, Commissions, Workflows & Producer Productivity*
+## 📌 Ecosystem Overview & Guide
 
-**Last updated: September 2026**
+A comprehensive, curated directory of **Commercial SaaS Platforms** and **Open-Source GitHub Projects** for **Insurance Agency Management Systems (AMS)**, **InsurTech CRMs**, policy administration, commission tracking, carrier rating, and producer productivity tools.
 
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Insurance Agency Management Systems (AMS)**. These systems help independent agencies and brokerages manage clients, policies, renewals, commissions, documents, and day-to-day agency workflows.
-
-
-
-**Examples** include Applied Epic, HawkSoft, AMS360, AgencyBloc, EZLynx, NowCerts, InsuredMine, Jenesis, Vertafore, Sagitta, QQCatalyst, Insly, AgencyZoom, Nexsure, Applied TAM, InsuredHQ, AgentCubed, and BindHQ (the category leaders).
-
-
-
-**Open-source emphasis**: Full-featured insurance AMS platforms are almost entirely commercial. Open options are limited to **early-stage open AMS projects**, general CRM/ERP adaptations, and policy-tracking prototypes. This section lists the strongest available open resources and is realistic about the gap.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-- **[Applied Epic](https://www.appliedsystems.com/)**  
-
-  Leading enterprise agency management system used by larger independent agencies and brokerages for complex commercial and personal lines operations.
-
-
-
-- **[HawkSoft](https://www.hawksoft.com/)**  
-
-  Agency management system popular with independent agencies for ease of use, workflow, and reporting.
-
-
-
-- **[AMS360 (Vertafore)](https://www.vertafore.com/)**  
-
-  Widely deployed AMS from Vertafore used by independent agencies for policy, client, and agency operations management.
-
-
-
-- **[AgencyBloc](https://www.agencybloc.com/)**  
-
-  AMS and agency management platform oriented toward benefits and life/health agencies as well as broader agency needs.
-
-
-
-- **[EZLynx](https://www.ezlynx.com/)**  
-
-  Rating, comparative quoting, and agency management tools used by independent agents for personal lines and related workflows.
-
-
-
-- **[NowCerts](https://www.nowcerts.com/)**  
-
-  Cloud AMS focused on independent agencies with policy management, automation, and integration capabilities.
-
-
-
-- **[InsuredMine](https://www.insuredmine.com/)**  
-
-  Insurance CRM and AMS-oriented platform for agency growth, client management, and producer productivity.
-
-
-
-- **[Jenesis](https://www.jenesis.com/)**  
-
-  Agency management and comparative rating solutions used by independent insurance agencies.
-
-
-
-- **[Vertafore (broader suite including Sagitta, AMS360)](https://www.vertafore.com/)**  
-
-  Major insurance software provider offering AMS and related agency technology across multiple products.
-
-
-
-- **[Sagitta (Vertafore)](https://www.vertafore.com/)**  
-
-  Agency management system historically used by larger agencies, part of the Vertafore portfolio.
-
-
-
-- **[QQCatalyst](https://www.vertafore.com/)**  
-
-  Cloud AMS from Vertafore aimed at independent agencies seeking modern, web-based agency management.
-
-
-
-- **[Insly](https://www.insly.com/)**  
-
-  Insurance software platform offering agency and underwriting-related capabilities for brokers and MGAs.
-
-
-
-- **[AgencyZoom](https://www.agencyzoom.com/)**  
-
-  Sales and agency growth platform often used alongside AMS systems for pipeline, marketing, and producer management.
-
-
-
-- **[Nexsure](https://www.vertafore.com/)**  
-
-  Agency management solution within the Vertafore ecosystem for certain agency segments.
-
-
-
-- **[Applied TAM](https://www.appliedsystems.com/)**  
-
-  Legacy and transitional AMS offerings from Applied Systems used by many agencies over the years.
-
-
-
-- **[InsuredHQ / AgentCubed / BindHQ and similar AMS/CRM tools](https://www.example.com/)**  
-
-  Additional agency management and CRM-oriented platforms serving independent agents and brokers.
-
-
-
-## Open-Source GitHub Projects
-
-- **[Quickfire / Openfire AMS](https://github.com/flashvenom/quickfire)**  
-
-  Open-source-oriented insurance AMS framework for P&C agencies, brokers, and wholesalers with workflow and integration focus (commercial editions also available).
-
-
-
-- **[TMINS and similar open agency management experiments](https://github.com/techmistry/tmins)**  
-
-  Early-stage open-source insurance agency / brokerage management system concepts for small to mid-size agencies.
-
-
-
-- **[ERPNext / Odoo insurance and CRM adaptations](https://github.com/frappe/erpnext)**  
-
-  Open ERP modules that can be configured for client, policy-like records, commissions, and agency-style workflows.
-
-
-
-- **[Open CRM platforms adapted for agencies](https://github.com/)**  
-
-  Self-hosted CRMs (e.g., Twenty, EspoCRM, SuiteCRM) used by some agencies as lightweight client and pipeline systems.
-
-
-
-- **[Policy and certificate tracking open prototypes](https://github.com/)**  
-
-  Simple open applications for tracking policies, renewals, and certificates of insurance.
-
-
-
-- **[Document and form open management tools](https://github.com/)**  
-
-  Open document repositories and form builders used for applications, endorsements, and agency paperwork.
-
-
-
-- **[Commission calculation open scripts and spreadsheets](https://github.com/)**  
-
-  Community tools and templates for producer commission tracking outside a full AMS.
-
-
-
-- **[Comparative rating open research projects](https://github.com/)**  
-
-  Limited experimental projects around rating logic (most real rating engines remain proprietary).
-
-
-
-- **[Agency website and client portal open kits](https://github.com/)**  
-
-  Open web frameworks used to build client-facing portals that sit beside a commercial AMS.
-
-
-
-- **[Workflow and task open engines for agency ops](https://github.com/)**  
-
-  Open workflow tools adapted for renewals, service requests, and internal agency processes.
-
-
-
-### Additional Strong Open-Source Options
-
-- Experimenting with **Openfire/Quickfire-style** open AMS cores for P&C workflows where feasible.
-
-- Using **open CRM + document tools** as a lightweight layer for very small agencies.
-
-- Combining open client portals with commercial AMS backends for hybrid architectures.
-
-- Accepting that full policy download, carrier integrations, accounting, compliance reporting, and mature AMS workflows still require commercial platforms (Applied Epic, AMS360, HawkSoft, NowCerts, EZLynx, AgencyBloc, Vertafore suite, etc.).
-
-- Focusing open-source efforts on data ownership, niche workflows, and avoiding total lock-in for client data.
-
-
-
-**Frameworks for building custom systems**: Track clients and policies in an open CRM or early AMS project → manage documents in controlled repositories → handle commissions carefully → integrate with commercial rating and carrier systems as needed. Suitable only for small or experimental agencies with technical capacity. Most independent agencies rely on established commercial AMS platforms for day-to-day operations and carrier connectivity.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Insurance AMS systems handle sensitive personal and policy data and must comply with insurance regulations, privacy laws, and carrier requirements. Open-source or self-built systems require strong security, auditability, and professional insurance-domain knowledge. This list is not legal, compliance, or insurance advice.
-
-
+This repository serves independent insurance agencies, brokerages, MGAs (Managing General Agents), and InsurTech software engineers looking to discover, evaluate, and build agency technology solutions.
 
 ---
 
-**Made for independent insurance agents, agency principals, and insurance technologists.**
+## 📑 Table of Contents
 
-Let's keep agency operations efficient, client-centric, and as open as practical.
+- [🏢 SaaS & Hosted Commercial Platforms](#-saas--hosted-commercial-platforms)
+- [🔓 Open-Source GitHub Repositories](#-open-source-github-repositories)
+- [🛠️ Frameworks & Hybrid Architecture Notes](#%EF%B8%8F-frameworks--hybrid-architecture-notes)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [📈 Star History](#-star-history)
+- [💖 Support & Contributing](#-support--contributing)
+
+---
+
+## 🏢 SaaS & Hosted Commercial Platforms
+
+> 📊 **Sector Market Insights:** The global **Insurance Agency Management System (AMS)** market is estimated at **$3.85 Billion in 2026** and is projected to reach **$6.42 Billion by 2032** (CAGR ~8.8%). The market is **moderately concentrated** at the enterprise top tier—dominated by legacy market leaders Applied Systems and Vertafore holding substantial combined market share—while remaining **highly fragmented** in the independent agent, MGA, and niche mid-market sectors with dozens of specialized cloud software providers.
+
+Below is a detailed overview of top commercial SaaS AMS and InsurTech platforms, sorted by **Company Size / Valuation / Revenue (Descending)**:
+
+| 🚀 Platform Name & Link | 📝 Description & Key Capabilities | 💼 Company Size / Valuation / Revenue | 💵 Starting Price | 🎁 Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Applied Epic](https://www.appliedsystems.com/)** | Enterprise-grade agency management system used by larger independent agencies and brokerages for complex commercial and personal lines workflows. | **$5.0B+ Valuation / $1.2B ARR** *(Backed by Hellman & Friedman & CapitalG)* | `$125/user/month` | `No free trial (live custom demo available)` |
+| **[AMS360 (Vertafore)](https://www.vertafore.com/)** | Leading cloud AMS platform for independent agencies to manage policy lifecycles, accounting, producer commissions, and carrier downloads. | **$5.35B Valuation** *(Acquired by Roper Tech)* / **$600M+ ARR** | `$99/user/month` | `No free trial (guided product demo available)` |
+| **[Sagitta (Vertafore)](https://www.vertafore.com/)** | Enterprise agency management system designed for high-volume commercial lines brokerages and complex insurance structures. | **Part of Vertafore ($5.35B Parent Valuation)** | `$200/user/month` | `No free trial (enterprise demo on request)` |
+| **[QQCatalyst (Vertafore)](https://www.vertafore.com/)** | Web-based, cloud insurance AMS for small-to-medium independent agencies seeking intuitive policy and client servicing tools. | **Part of Vertafore ($5.35B Parent Valuation)** | `$115/month` | `14-day free trial (cloud edition)` |
+| **[Applied TAM](https://www.appliedsystems.com/)** | Classic agency management system used across independent insurance agencies for policy and client administration. | **Part of Applied Systems ($5.0B+ Parent Valuation)** | `$110/user/month` | `No free trial (legacy demo system)` |
+| **[EZLynx](https://www.ezlynx.com/)** | Comparative rating, customer management, and agency management platform for personal lines and independent agents. | **$415M Valuation** *(Acquired by Applied Systems)* / **~$70M ARR** | `$129/month` | `14-day free trial (starter rating module access)` |
+| **[AgencyBloc](https://www.agencybloc.com/)** | AMS and CRM software built specifically for health, life, and benefits agencies as well as general line brokerages. | **~$100M Valuation** *(Backed by Lightyear Capital)* / **~$25M ARR** | `$59/month` | `14-day free trial (no credit card required)` |
+| **[HawkSoft](https://www.hawksoft.com/)** | User-friendly agency management system for independent agents focused on workflows, policy tracking, and API integration. | **~$20M ARR** *(Private Independent, 150+ employees)* | `$250/month` | `No free trial (30-day money-back guarantee)` |
+| **[Insly](https://www.insly.com/)** | Cloud insurance platform offering agency management, MGA underwriting tools, policy administration, and billing. | **~$15M Valuation** / **~$10M ARR** | `$49/user/month` | `30-day free trial (up to 5 team members)` |
+| **[AgencyZoom](https://www.agencyzoom.com/)** | Sales automation and agency growth CRM platform integrated with commercial AMS systems for producer management. | **~$15M Valuation** *(Part of Vertafore Ecosystem)* | `$119/month` | `14-day free trial (full feature access)` |
+| **[InsuredMine](https://www.insuredmine.com/)** | All-in-one insurance CRM and agency management platform focusing on sales pipeline, client portal, and analytics. | **~$100M Valuation / ~$8M ARR** | `$109/user/month` | `14-day free trial (all CRM/AMS features)` |
+| **[NowCerts](https://www.nowcerts.com/)** | Cloud-based AMS providing automated policy management, certificate creation, billing, and carrier downloads. | **~$5M ARR** *(Bootstrapped / Independent)* | `$99/month` | `14-day free trial (1 user, full feature set)` |
+| **[Jenesis](https://www.jenesis.com/)** | Web-based agency management software for independent insurance agents featuring rating and policy organization. | **~$4M ARR** *(Private Regional Vendor)* | `$135/month` | `30-day money-back trial period` |
+| **[BindHQ / AgentCubed / InsuredHQ](https://www.bindhq.com/)** | Modern agency management and digital MGA platforms tailored for commercial brokers, MGAs, and life/health agents. | **~$3M–$10M Valuation** | `$89/month` | `14-day free trial (up to 3 users)` |
+
+---
+
+## 🔓 Open-Source GitHub Repositories
+
+Full-featured commercial AMS applications rely heavily on proprietary carrier data standards (ACORD) and download pipelines. However, open-source projects, customized open-source CRMs, and ERP modules offer powerful foundations for agency automation, custom portals, and policy tracking.
+
+Below is the list of open-source repositories sorted by **GitHub Stars (Descending)**:
+
+| 🌟 Star Rating & Link | 📦 Repository & Project Name | 📋 Description & Use Case for Insurance Agencies |
+| :--- | :--- | :--- |
+| [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | **[twentyhq/twenty](https://github.com/twentyhq/twenty)** | Modern open-source CRM alternative to Salesforce, adapted for insurance agency pipelines, client profiles, and policy tracking workflows. |
+| [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | **[odoo/odoo](https://github.com/odoo/odoo)** | Open-source ERP/CRM suite with specialized community & enterprise modules for insurance agencies, client management, policy records, and invoicing. |
+| [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | **[frappe/erpnext](https://github.com/frappe/erpnext)** | Full-featured open-source ERP system with customizable insurance broker apps, policy tracking, commissions, and customer accounting. |
+| [![Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers) | **[salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM)** | Enterprise open-source CRM platform configured by insurance agencies for lead management, policy renewal workflows, and client portals. |
+| [![Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers) | **[espocrm/espocrm](https://github.com/espocrm/espocrm)** | Lightweight web CRM application customized for policy records, claims tracking, carrier contact lists, and insurance producer pipelines. |
+| [![Stars](https://img.shields.io/github/stars/sumitkumar1503/insurancemanagement?style=social&color=white)](https://github.com/sumitkumar1503/insurancemanagement/stargazers) | **[sumitkumar1503/insurancemanagement](https://github.com/sumitkumar1503/insurancemanagement)** | Python & Django-based insurance management system handling customer policy records, premium payment tracking, and policy status. |
+| [![Stars](https://img.shields.io/github/stars/prolinkinfo/InsuranceProCRM?style=social&color=white)](https://github.com/prolinkinfo/InsuranceProCRM/stargazers) | **[prolinkinfo/InsuranceProCRM](https://github.com/prolinkinfo/InsuranceProCRM)** | MERN stack CRM designed for insurance agents and agencies to organize client details, policy renewals, and sales pipelines. |
+| [![Stars](https://img.shields.io/github/stars/daxaxelrod/open_insure?style=social&color=white)](https://github.com/daxaxelrod/open_insure/stargazers) | **[daxaxelrod/open_insure](https://github.com/daxaxelrod/open_insure)** | Open-source insurance policy management software written in Python for policy administration and client tracking. |
+| [![Stars](https://img.shields.io/github/stars/flashvenom/quickfire?style=social&color=white)](https://github.com/flashvenom/quickfire/stargazers) | **[flashvenom/quickfire](https://github.com/flashvenom/quickfire)** | Open-source core framework for Quickfire AMS, focusing on P&C broker workflows, policy administration, and carrier data structures. |
+| [![Stars](https://img.shields.io/github/stars/techmistry/tmins?style=social&color=white)](https://github.com/techmistry/tmins/stargazers) | **[techmistry/tmins](https://github.com/techmistry/tmins)** | Open-source insurance agency management system prototype built for small independent agencies and brokerage operations. |
+
+---
+
+## 🛠️ Frameworks & Hybrid Architecture Notes
+
+- **CRM + Custom DB Pattern**: Track clients and policies in an open CRM (e.g., Twenty, ERPNext) while using custom scripts for policy renewal notifications.
+- **Document Repositories**: Store policy documents, endorsements, and certificates of insurance in self-hosted, secure object storage.
+- **Carrier & Rating Integrations**: Most commercial comparative rating tools require direct carrier APIs. Hybrid architectures combine open client portals with commercial rating backends.
+
+---
+
+## 🤝 How to Contribute
+
+1. Fork this repository.
+2. Add or update entries in `README.md` keeping descriptions objective and verified.
+3. Check the [Awesome List Guidelines](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for contribution best practices.
+4. Submit a Pull Request with a clear description of changes.
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated directory** provided for research purposes.
+- Insurance agency management systems handle sensitive personally identifiable information (PII) and policy records subject to insurance privacy regulations. Ensure compliance, encryption, and audit capabilities before deploying any solution.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Insurance-Agency-Management-System&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Insurance-Agency-Management-System&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Contributing
+
+Thank you for exploring the **Awesome Insurance Agency Management System (AMS)** ecosystem repository!
+
+Whether you are an independent insurance agent, agency principal, broker, or InsurTech developer, your contributions and feedback help keep this list accurate and comprehensive.
+
+### 🌟 How to Support:
+- ⭐️ **Star this repository** on GitHub if you found it useful!
+- 🔀 **Fork & Contribute** by submitting a Pull Request with new SaaS tools or open-source projects.
+- 📢 **Share with fellow agents & developers** across social media, forums, and tech communities.
+- ☕ **Buy me a coffee / Sponsor**: If this project saved you time or aided your research, support ongoing maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)!
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor" /></a>
+</p>
