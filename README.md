@@ -55,7 +55,7 @@ Below is a detailed overview of top commercial SaaS AMS and InsurTech platforms,
 
 Full-featured commercial AMS applications rely heavily on proprietary carrier data standards (ACORD) and download pipelines. However, open-source projects, customized open-source CRMs, and ERP modules offer powerful foundations for agency automation, custom portals, and policy tracking.
 
-Below is the list of open-source repositories sorted by **GitHub Stars (Descending)**:
+Below is the list of open-source repositories sorted by **GitHub_Stars (Descending)**:
 
 | 🌟 Star Rating & Link | 📦 Repository & Project Name | 📋 Description & Use Case for Insurance Agencies |
 | :--- | :--- | :--- |
